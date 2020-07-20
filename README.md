@@ -1,10 +1,9 @@
 ## Hola Amigos, I'm Atharva 👋
 
-
-
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Machine Learning.
 - 💬 Ask me about Flutter, Dart.
+<img src = "https://lh6.googleusercontent.com/proxy/iwhKOv3tfirUNTArPiI1UTKw8gbdyY5-vElZJSDkOoQfGTVg023Jn-7sFAmUR3Sce8IKQC0zG4mus0u-mM7hyVLsYis4CufWhmaCzg" align = "right" width = 150, height = 150>
 - 📲 Connect with me on:  👇🏻
 <a href="https://twitter.com/KhedkarAtharva">
   <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
