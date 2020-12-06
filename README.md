@@ -1,6 +1,6 @@
 ## Hola Amigos, I'm Atharva 👋
 
-[![Linkedin: Atharva](https://img.shields.io/badge/-Atharva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharva-khedkar-231201/)](https://www.linkedin.com/in/atharva-khedkar-231201/)
+[![Linkedin: Atharva](https://img.shields.io/badge/-Atharva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atharva-khedkar-231201/)](https://www.linkedin.com/in/atharvakhedkar/)
 <br/>
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Machine Learning.
