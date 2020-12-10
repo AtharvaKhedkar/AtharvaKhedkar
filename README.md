@@ -10,16 +10,16 @@
 <!-----Social Profile Buttons------>
 
 <a href="https://twitter.com/KhedkarAtharva">
-  <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left"  width="22px" src="https://img.icons8.com/color/48/000000/twitter.png" />
 </a>
-<a href="https://www.linkedin.com/in/atharva-khedkar-231201/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/atharvakhedkar/">
+  <img align="left" alt="Linkedin" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" />
 </a>
 <a href="https://t.me/a_pk23">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" />
 </a>
 <a href="https://www.instagram.com/atharva_khedkar23/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
 </a>
 
 <!-----GitHub Octocat------>
