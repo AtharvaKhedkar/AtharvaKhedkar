@@ -2,7 +2,7 @@
 
 [![Linkedin: Atharva](https://img.shields.io/badge/-Atharva-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atharvakhedkar/)
 <br/>
-- 🔭 I’m currently working on Tesnsorflow
+- 🔭 I’m currently working on Tensorflow
 - 🌱 I’m currently learning Artificial Neural Networks.
 - 💬 Ask me about Machine Learning,Tensorflow,Flutter.
 - 📲 Connect with me on:  👇🏻
