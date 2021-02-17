@@ -24,7 +24,7 @@
 
 <!-----GitHub Octocat------>
 
-<img src = "https://lh6.googleusercontent.com/proxy/iwhKOv3tfirUNTArPiI1UTKw8gbdyY5-vElZJSDkOoQfGTVg023Jn-7sFAmUR3Sce8IKQC0zG4mus0u-mM7hyVLsYis4CufWhmaCzg" align = "right" width = 150, height = 150>
+<img src = "../assets/octocat.png" align = "right" width = 150, height = 150>
 </br>
 
 ### Languages and Tools:
@@ -51,6 +51,3 @@
 <a href="https://github.com/AtharvaKhedkar/orangeneedle">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaKhedkar&repo=orangeneedle&theme=dark" />
 </a>
-
-
-
