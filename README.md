@@ -40,15 +40,15 @@
 
 <!-----Top Languages------>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apk23&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaKhedkar&theme=dark" />
 
 <!-----GitHub Stats------>
 
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=Apk23&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=AtharvaKhedkar&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!-----Projects------>
 
-<a href="https://github.com/Apk23/orangeneedle">
+<a href="https://github.com/AtharvaKhedkar/orangeneedle">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Apk23&repo=orangeneedle&theme=dark" />
 </a>
 
