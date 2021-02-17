@@ -49,7 +49,7 @@
 <!-----Projects------>
 
 <a href="https://github.com/AtharvaKhedkar/orangeneedle">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Apk23&repo=orangeneedle&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaKhedkar&repo=orangeneedle&theme=dark" />
 </a>
 
 
