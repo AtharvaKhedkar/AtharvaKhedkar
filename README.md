@@ -24,7 +24,7 @@
 
 <!-----GitHub Octocat------>
 
-<img src = "../assets/octocat.png" align = "right" width = 150, height = 150>
+<img src = "/assets/octocat.png" align = "right" width = 150, height = 150>
 </br>
 
 ### Languages and Tools:
