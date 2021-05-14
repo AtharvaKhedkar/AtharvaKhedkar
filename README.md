@@ -48,6 +48,6 @@
 
 <!-----Projects------>
 
-<a href="https://github.com/AtharvaKhedkar/orangeneedle">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaKhedkar&repo=orangeneedle&theme=dark" />
+<a href="https://github.com/AtharvaKhedkar/TodoList-App-in-flutter">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaKhedkar&repo=TodoList-App-in-flutter&theme=dark" />
 </a>
