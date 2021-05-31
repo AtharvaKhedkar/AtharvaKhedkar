@@ -1,4 +1,4 @@
-## Hola Amigos, I'm Atharva 👋
+## Hello World!, I'm Atharva 👋
 
 [![Linkedin: Atharva](https://img.shields.io/badge/-Atharva-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atharvakhedkar/)
 <br/>
