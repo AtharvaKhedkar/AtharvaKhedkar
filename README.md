@@ -9,7 +9,7 @@
 
 <!-----Social Profile Buttons------>
 
-<a href="https://twitter.com/KhedkarAtharva">
+<a href="https://twitter.com/AtharvaKhedkar">
   <img align="left"  width="22px" src="https://img.icons8.com/color/48/000000/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/atharvakhedkar/">
@@ -48,6 +48,9 @@
 
 <!-----Projects------>
 
-<a href="https://github.com/AtharvaKhedkar/TodoList-App-in-flutter">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaKhedkar&repo=TodoList-App-in-flutter&theme=dark" />
+<a href="https://github.com/AtharvaKhedkar/AutoML">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaKhedkar&repo=AutoML&theme=dark" />
+</a>
+<a href="https://github.com/AtharvaKhedkar/Spamia">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaKhedkar&repo=Spamia&theme=dark" />
 </a>
