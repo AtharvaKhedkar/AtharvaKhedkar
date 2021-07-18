@@ -1,6 +1,7 @@
 ## Hello World!, I'm Atharva 👋
 
 [![Linkedin: Atharva](https://img.shields.io/badge/-Atharva-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atharvakhedkar/)
+![ProfileViews](https://komarev.com/ghpvc/?username=AtharvaKhedkar&label=Profile Views)
 <br/>
 - 🔭 I’m currently working on Tensorflow
 - 🌱 I’m currently learning Artificial Neural Networks.
