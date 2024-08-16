@@ -16,12 +16,6 @@
 <a href="https://www.linkedin.com/in/atharvakhedkar/">
   <img align="left" alt="Linkedin" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" />
 </a>
-<a href="https://t.me/a_pk23">
-  <img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" />
-</a>
-<a href="https://www.instagram.com/atharva_khedkar23/">
-  <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new.png" />
-</a>
 
 <!-----GitHub Octocat------>
 
